@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{49CE7CAC-9F2D-47AB-8571-AA73C1C82D4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Atest/Test/DemoqaTest.cs">
+    <Files>
+      <File FileName="Atest/DemoqaTextbox.cs" Line="38" Column="1" />
+      <File FileName="Atest/Page/DemoqaPage.cs" Line="44" Column="15" />
+      <File FileName="Atest/Test/DemoqaTest.cs" Line="44" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Atest" expanded="True">
+            <Node name="Atest" expanded="True">
+              <Node name="Page" expanded="True" />
+              <Node name="Test" expanded="True">
+                <Node name="DemoqaTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Atest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Atest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
